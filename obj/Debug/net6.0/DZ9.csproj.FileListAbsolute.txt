@@ -1,0 +1,15 @@
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\bin\Debug\net6.0\DZ9.exe
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\bin\Debug\net6.0\DZ9.deps.json
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\bin\Debug\net6.0\DZ9.runtimeconfig.json
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\bin\Debug\net6.0\DZ9.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\bin\Debug\net6.0\DZ9.pdb
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\DZ9.csproj.AssemblyReference.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\DZ9.GeneratedMSBuildEditorConfig.editorconfig
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\DZ9.AssemblyInfoInputs.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\DZ9.AssemblyInfo.cs
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\DZ9.csproj.CoreCompileInputs.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\DZ9.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\refint\DZ9.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\DZ9.pdb
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\DZ9.genruntimeconfig.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (семинары)\DZ\DZ9\obj\Debug\net6.0\ref\DZ9.dll
